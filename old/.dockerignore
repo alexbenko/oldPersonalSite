@@ -1,0 +1,5 @@
+client/src
+README.md
+webpack.config.js
+.gitignore
+database/seed.js
